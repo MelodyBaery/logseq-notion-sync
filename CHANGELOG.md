@@ -1,3 +1,35 @@
+# 1.0.0 (2024-02-11)
+
+
+### Bug Fixes
+
+* Fix build error ([55b7ff9](https://github.com/MelodyBaery/logseq-notion-sync/commit/55b7ff98b379ce43c02d771730987394e6b7076d))
+* Fix release error ([8869d96](https://github.com/MelodyBaery/logseq-notion-sync/commit/8869d96f43c1801748e434bd403a079a59f37dfb))
+* Fix request error causing program crash ([698cf2f](https://github.com/MelodyBaery/logseq-notion-sync/commit/698cf2f3df96e8e00fd7ba3d014d388c55a1b637))
+* Fix the issue of title children being out of sync & cancel toggle blocks ([b9e8273](https://github.com/MelodyBaery/logseq-notion-sync/commit/b9e82733cdc001d770e6f421ae8962eca3021cfc))
+* Remove block depth limit ([675365d](https://github.com/MelodyBaery/logseq-notion-sync/commit/675365dc724d5bec2aa72b6a55b1ea20d22e3796))
+* Resolve build errors ([a6899ad](https://github.com/MelodyBaery/logseq-notion-sync/commit/a6899ad518cd894630ed829a31a8d1c97d0ffef4))
+* Resolve build errors 2 ([1285706](https://github.com/MelodyBaery/logseq-notion-sync/commit/12857060c9bce865da6e784917c11d44e170f60b))
+* update config ([b912298](https://github.com/MelodyBaery/logseq-notion-sync/commit/b9122982afec8589bad6e3a5dd56a7076e2b1325))
+
+
+### Features
+
+* add LICENSE ([53fc99f](https://github.com/MelodyBaery/logseq-notion-sync/commit/53fc99f64d942a000740243cdca635b2b5d59a78))
+* Add plugin configuration settings ([bdd00ff](https://github.com/MelodyBaery/logseq-notion-sync/commit/bdd00ffd3c95662f5dc801cdfa0a91b11a10da0e))
+* Implementing the parseBlock function to parse blockquote & heading ([61b3dea](https://github.com/MelodyBaery/logseq-notion-sync/commit/61b3dea0b5d10fd6ce1f003ef4807d77a92481e7))
+* Implementing the parseBlock function to parse code block ([c85b02b](https://github.com/MelodyBaery/logseq-notion-sync/commit/c85b02bb11a94d3e20e0e12686944551a1b27f8b))
+* Implementing the parseBlock function to parse table ([b7441f2](https://github.com/MelodyBaery/logseq-notion-sync/commit/b7441f24b869e67bac183afbd02ef52f38bde1c9))
+* Implementing the parseBlock function to parse task ([127d11d](https://github.com/MelodyBaery/logseq-notion-sync/commit/127d11d5fc21152f4494b0a3b10252cbb7740b7d))
+* Implementing the parseBlock function to parse text with link ([74f9e8f](https://github.com/MelodyBaery/logseq-notion-sync/commit/74f9e8f603b30f2e9751d33d83c24b48d30967e6))
+* page content sync ([ca80e2a](https://github.com/MelodyBaery/logseq-notion-sync/commit/ca80e2a7cbeba25417f4e7585b135875452dc500))
+* Parsing nested blocks ([fbfae3f](https://github.com/MelodyBaery/logseq-notion-sync/commit/fbfae3fc8893d96c1c0289755d71c3785182b80d))
+* The slash command saves page and block to Notion ([a55b75e](https://github.com/MelodyBaery/logseq-notion-sync/commit/a55b75ef2cb3a77628765811f58b0deed32566d7))
+* update logo ([1215418](https://github.com/MelodyBaery/logseq-notion-sync/commit/1215418c68880a1cb8db1cbd8104c376b02d75c4))
+* update logo ([db98a92](https://github.com/MelodyBaery/logseq-notion-sync/commit/db98a920ea6c76ccdaa0cd7cd86fb61eff839927))
+* update readme ([9b870ef](https://github.com/MelodyBaery/logseq-notion-sync/commit/9b870ef96e16a9ba483343f041bccd3f2fde9fae))
+* update README & logo ([0c1d0d9](https://github.com/MelodyBaery/logseq-notion-sync/commit/0c1d0d951192e17cf61e24cbbffab9a503e4ebeb))
+
 ## [1.4.1](https://github.com/b-yp/logseq-notion-sync/compare/v1.4.0...v1.4.1) (2023-08-22)
 
 
